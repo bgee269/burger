@@ -1,4 +1,4 @@
-# burger
+# Burger
 
 An Application that takes user input and displays user input to the DOM. Enter your favorite burger then devour it!
 
